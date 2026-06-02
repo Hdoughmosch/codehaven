@@ -2,7 +2,7 @@
 
 A powerful, lightweight code snippet manager built with Python and Bottle. Organize, tag, execute, and manage your code snippets with an elegant web interface.
 
-![CodeHaven Screenshot](ch.jpg)
+![CodeHaven Screenshot](./ch.jpg)
 
 ## Features
 
